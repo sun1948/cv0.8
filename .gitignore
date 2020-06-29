@@ -1,7 +1,6 @@
 /dist/
 /node_modules/
 /.cache/
-README.md
 .idea/
 .DS_Store/
 .DS_Store
